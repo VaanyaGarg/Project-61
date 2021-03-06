@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+}
+.img1{
+    width:25%;
+    border-radius:50%;
+}
+.image2{
+    width:28%;
+
+}
+#p2{
+    margin:20px;
+}
+.image{
+    width:15%;
+}
+p{
+    font-size:18px;
+}
